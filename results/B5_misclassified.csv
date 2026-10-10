@@ -1,0 +1,20 @@
+test_index,actual,predicted,confidence
+15,Abyssinian,Chihuahua,0.30915796756744385
+33,Boxer,Beagle,0.7839093208312988
+54,Pug,Boxer,0.4723590910434723
+71,Beagle,Chihuahua,0.3444984555244446
+73,Bengal,Abyssinian,0.8465376496315002
+77,Bombay,Chihuahua,0.5566086769104004
+87,German Shorthaired,Boxer,0.9593587517738342
+122,Boxer,Beagle,0.8247485160827637
+129,Bombay,Chihuahua,0.544356644153595
+131,Boxer,Beagle,0.7037129998207092
+161,German Shorthaired,Beagle,0.5324547290802002
+187,Boxer,Pug,0.6858401894569397
+201,Bombay,Abyssinian,0.7957167029380798
+211,Boxer,Beagle,0.8172082304954529
+213,Bombay,British Shorthair,0.5451213121414185
+222,British Shorthair,Abyssinian,0.9932661056518555
+224,British Shorthair,Abyssinian,0.5179594159126282
+250,Bengal,Abyssinian,0.6551194787025452
+275,Bengal,German Shorthaired,0.6920484900474548

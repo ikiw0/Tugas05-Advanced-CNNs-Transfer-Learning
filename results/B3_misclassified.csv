@@ -1,0 +1,9 @@
+test_index,actual,predicted,confidence
+15,Abyssinian,Bengal,0.6246606707572937
+54,Pug,Boxer,0.9979918003082275
+71,Beagle,German Shorthaired,0.8361400961875916
+100,Beagle,Boxer,0.49813562631607056
+127,Abyssinian,Bengal,0.9845300912857056
+142,Bombay,German Shorthaired,0.43073469400405884
+222,British Shorthair,Abyssinian,0.9835471510887146
+275,Bengal,British Shorthair,0.7985221743583679

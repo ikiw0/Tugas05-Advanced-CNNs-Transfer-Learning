@@ -1,0 +1,7 @@
+experiment,strategy,total_parameters,trainable_parameters,best_epoch,duration_seconds,test_accuracy,test_macro_f1,best_checkpoint,device
+B1,B1,11181642,11181642,4,273.2,0.412751677852349,0.3438641808949412,/Users/ahmadrizkiw/Documents/Semester 5/Tugas05_VSCode_Notebook/checkpoints/B1_best.pth,mps
+B2,B2,11181642,5130,9,168.23,0.953020134228188,0.9527375481943152,/Users/ahmadrizkiw/Documents/Semester 5/Tugas05_VSCode_Notebook/checkpoints/B2_best.pth,mps
+B3,B3,11181642,8398858,6,156.92,0.9731543624161074,0.9732509022793556,/Users/ahmadrizkiw/Documents/Semester 5/Tugas05_VSCode_Notebook/checkpoints/B3_best.pth,mps
+B4_NoAug,B4_NoAug,11181642,8398858,7,175.32,0.9731543624161074,0.9732013199918924,/Users/ahmadrizkiw/Documents/Semester 5/Tugas05_VSCode_Notebook/checkpoints/B4_NoAug_best.pth,mps
+B4_Aug,B4_Aug,11181642,8398858,2,89.22,0.9664429530201344,0.966647650254974,/Users/ahmadrizkiw/Documents/Semester 5/Tugas05_VSCode_Notebook/checkpoints/B4_Aug_best.pth,mps
+B5,B5,1528106,657546,2,52.9,0.9362416107382551,0.9362610077998124,/Users/ahmadrizkiw/Documents/Semester 5/Tugas05_VSCode_Notebook/checkpoints/B5_best.pth,mps

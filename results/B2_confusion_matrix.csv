@@ -1,0 +1,11 @@
+,Abyssinian,Bengal,Birman,Bombay,British Shorthair,Beagle,Boxer,Chihuahua,German Shorthaired,Pug
+Abyssinian,25,4,0,0,1,0,0,0,0,0
+Bengal,1,28,0,0,1,0,0,0,0,0
+Birman,0,0,30,0,0,0,0,0,0,0
+Bombay,0,0,0,26,1,0,0,0,0,1
+British Shorthair,1,0,0,0,29,0,0,0,0,0
+Beagle,0,0,0,0,0,28,1,0,1,0
+Boxer,0,0,0,0,0,0,30,0,0,0
+Chihuahua,0,0,0,0,0,0,0,30,0,0
+German Shorthaired,0,0,0,0,0,0,0,0,30,0
+Pug,0,0,0,1,0,0,1,0,0,28

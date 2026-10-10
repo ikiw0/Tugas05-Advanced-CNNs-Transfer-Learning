@@ -1,0 +1,74 @@
+[
+  {
+    "experiment":"B1",
+    "strategy":"B1",
+    "total_parameters":11181642,
+    "trainable_parameters":11181642,
+    "best_epoch":4,
+    "duration_seconds":273.2,
+    "test_accuracy":0.4127516779,
+    "test_macro_f1":0.3438641809,
+    "best_checkpoint":"\/Users\/ahmadrizkiw\/Documents\/Semester 5\/Tugas05_VSCode_Notebook\/checkpoints\/B1_best.pth",
+    "device":"mps"
+  },
+  {
+    "experiment":"B2",
+    "strategy":"B2",
+    "total_parameters":11181642,
+    "trainable_parameters":5130,
+    "best_epoch":9,
+    "duration_seconds":168.23,
+    "test_accuracy":0.9530201342,
+    "test_macro_f1":0.9527375482,
+    "best_checkpoint":"\/Users\/ahmadrizkiw\/Documents\/Semester 5\/Tugas05_VSCode_Notebook\/checkpoints\/B2_best.pth",
+    "device":"mps"
+  },
+  {
+    "experiment":"B3",
+    "strategy":"B3",
+    "total_parameters":11181642,
+    "trainable_parameters":8398858,
+    "best_epoch":6,
+    "duration_seconds":156.92,
+    "test_accuracy":0.9731543624,
+    "test_macro_f1":0.9732509023,
+    "best_checkpoint":"\/Users\/ahmadrizkiw\/Documents\/Semester 5\/Tugas05_VSCode_Notebook\/checkpoints\/B3_best.pth",
+    "device":"mps"
+  },
+  {
+    "experiment":"B4_NoAug",
+    "strategy":"B4_NoAug",
+    "total_parameters":11181642,
+    "trainable_parameters":8398858,
+    "best_epoch":7,
+    "duration_seconds":175.32,
+    "test_accuracy":0.9731543624,
+    "test_macro_f1":0.97320132,
+    "best_checkpoint":"\/Users\/ahmadrizkiw\/Documents\/Semester 5\/Tugas05_VSCode_Notebook\/checkpoints\/B4_NoAug_best.pth",
+    "device":"mps"
+  },
+  {
+    "experiment":"B4_Aug",
+    "strategy":"B4_Aug",
+    "total_parameters":11181642,
+    "trainable_parameters":8398858,
+    "best_epoch":2,
+    "duration_seconds":89.22,
+    "test_accuracy":0.966442953,
+    "test_macro_f1":0.9666476503,
+    "best_checkpoint":"\/Users\/ahmadrizkiw\/Documents\/Semester 5\/Tugas05_VSCode_Notebook\/checkpoints\/B4_Aug_best.pth",
+    "device":"mps"
+  },
+  {
+    "experiment":"B5",
+    "strategy":"B5",
+    "total_parameters":1528106,
+    "trainable_parameters":657546,
+    "best_epoch":2,
+    "duration_seconds":52.9,
+    "test_accuracy":0.9362416107,
+    "test_macro_f1":0.9362610078,
+    "best_checkpoint":"\/Users\/ahmadrizkiw\/Documents\/Semester 5\/Tugas05_VSCode_Notebook\/checkpoints\/B5_best.pth",
+    "device":"mps"
+  }
+]
