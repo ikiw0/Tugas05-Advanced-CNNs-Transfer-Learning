@@ -40,8 +40,8 @@ Struktur folder aktual dapat berbeda sesuai lokasi penyimpanan notebook. Hindari
 1. Clone repositori:
 
    ```bash
-   git clone <URL_REPOSITORI>
-   cd <FOLDER_REPOSITORI>
+   git clone https://github.com/ikiw0/Tugas05-Advanced-CNNs-Transfer-Learning.git
+   cd Tugas05-Advanced-CNNs-Transfer-Learning
    ```
 
 2. Buat dan aktifkan virtual environment:
